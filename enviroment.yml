@@ -1,0 +1,7 @@
+name: AOI-example
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas=1.4.1
+  - pillow=9.0.1
